@@ -60,7 +60,7 @@ void MainApp()
         WriteLine("Пожалуйста не введите символы, программа запрашивает число.");
         return;
     }
-    catch when(enterData == 0 || enterData > json.db.Length ) 
+    catch when(enterData <= 0 || enterData > json.db.Length ) 
     {
         WriteLine("Введите 1 или 2 или 3 )");
         return;
