@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.exe
+C:\Users\user\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.deps.json
+C:\Users\user\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.runtimeconfig.json
+C:\Users\user\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.dll
+C:\Users\user\source\repos\ShopProject\ShopProject\bin\Debug\net6.0\ShopProject.pdb
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.AssemblyInfo.cs
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.dll
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\refint\ShopProject.dll
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.pdb
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ShopProject.genruntimeconfig.cache
+C:\Users\user\source\repos\ShopProject\ShopProject\obj\Debug\net6.0\ref\ShopProject.dll
